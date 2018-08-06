@@ -1,4 +1,2 @@
-db/*.sqlite3
+db/development.sqlite3
 tmp/*
-log/*
-Gemfile.lock
